@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2977" topLine="90" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="139" />
+			<Collapse line="144" />
+			<Collapse line="152" />
+			<Collapse line="158" />
+			<Collapse line="162" />
+			<Collapse line="172" />
+			<Collapse line="176" />
+			<Collapse line="180" />
+			<Collapse line="200" />
+			<Collapse line="217" />
+			<Collapse line="229" />
+			<Collapse line="240" />
+			<Collapse line="274" />
+			<Collapse line="278" />
+			<Collapse line="289" />
+			<Collapse line="317" />
+			<Collapse line="340" />
+			<Collapse line="363" />
+			<Collapse line="392" />
+			<Collapse line="402" />
+			<Collapse line="425" />
+			<Collapse line="430" />
+			<Collapse line="434" />
+			<Collapse line="439" />
+			<Collapse line="461" />
+			<Collapse line="476" />
+			<Collapse line="492" />
+			<Collapse line="540" />
+			<Collapse line="544" />
+			<Collapse line="548" />
+			<Collapse line="553" />
+			<Collapse line="558" />
+			<Collapse line="563" />
+			<Collapse line="583" />
+			<Collapse line="588" />
+			<Collapse line="602" />
+			<Collapse line="617" />
+			<Collapse line="631" />
+			<Collapse line="675" />
+			<Collapse line="714" />
+			<Collapse line="722" />
+			<Collapse line="810" />
+			<Collapse line="817" />
+			<Collapse line="829" />
+			<Collapse line="841" />
+			<Collapse line="853" />
+			<Collapse line="911" />
+			<Collapse line="927" />
+			<Collapse line="948" />
+			<Collapse line="961" />
+			<Collapse line="967" />
+			<Collapse line="999" />
+			<Collapse line="1004" />
+		</Folding>
+	</File>
+	<File name="Defs.hpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="905" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="Structures.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="950" topLine="21" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1717145719 source:c:\users\hungd\onedrive\máy tính\btl\minesweeper\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<string>
+	<cstdlib>
+	<time.h>
+	<iostream>
+	"Defs.hpp"
+	"Structures.hpp"
+
+1717145633 c:\users\hungd\onedrive\máy tính\btl\minesweeper\defs.hpp
+
+1717143846 c:\users\hungd\onedrive\máy tính\btl\minesweeper\structures.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
